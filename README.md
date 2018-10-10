@@ -13,4 +13,4 @@ Note, in example, images 1,2,3 are pictures, and the second set starting from th
 
 ### Conversion
 
-Use below macro (right click and Save As... and then drag onto Fiji) to convert specified sub-image/series within vsi file to tif (also saves png thumbnail for easy viewing).  Select common size from above report, using the series number counted along the columns.  Note, the first sizes listed prior to the largest are commonly image files, not data files.
+Use IJ macro to convert specified sub-image/series within vsi file to tif (also saves png thumbnail for easy viewing).  Select common size from above report, using the series number counted along the columns.  Note, the first sizes listed prior to the largest are commonly picture files, not data files.
